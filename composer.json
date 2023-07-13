@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mailjet/mailjet-apiv3-php": "^1.5",
+        "twilio/sdk": "^7.5",
+        "google/apiclient": "2.14"
+    }
+}
